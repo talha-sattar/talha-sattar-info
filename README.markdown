@@ -3,6 +3,8 @@
 ## Purpose
 This repository contains an HTML-based CV designed to showcase the professional profile, skills, experience, projects, education, certifications, and achievements of Talha Sattar, a Data Scientist. The CV is structured as a single-page web application, styled with modern CSS and enhanced with semi-formal interactive effects to present a professional and visually appealing resume.
 
+Visit my website: **[talha-sattar-info](https://talha-sattar.github.io/talha-sattar-info/)**
+
 ## Usage
 The CV is provided as an `index.html` file that can be used in the following ways:
 
